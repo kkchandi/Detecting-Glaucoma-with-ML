@@ -4,6 +4,6 @@ This is my senior year research project at [Thomas Jefferson High School for Sci
 
 For this project, I designed and developed software that detects glaucoma, an eye disease, from retinal fundus images. I trained machine learning models on large image datasets and conducted classification analysis. 
 
-Here is my [presentation](https://docs.google.com/presentation/d/1nZiOIuubsjpSxYoVfDXcSMFEaiVSPAwAgBnEO41rKNI/edit?usp=sharing) for tjSTAR, a regional research symposium, that details my findings. 
+Here is my [presentation](https://github.com/kkchandi/Detecting-Glaucoma-with-ML/blob/a1fa4707cdf26cfd8c4d5a696a3f3e2950560106/Detecting%20Glaucoma%20in%20Retinal%20Images.pdf) for tjSTAR, a regional research symposium, that details my findings. 
 
 Watch this [video](https://drive.google.com/drive/search?q=research%20project) to learn more about the project!
